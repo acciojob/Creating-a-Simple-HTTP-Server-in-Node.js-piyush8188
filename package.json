@@ -1,0 +1,19 @@
+{
+  "name": "creating-a-simple-http-server-in-node",
+  "version": "1.0.0",
+  "description": "Starter package.json template",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js/issues"
+  },
+  "homepage": "https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js#readme"
+}
